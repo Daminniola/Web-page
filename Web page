@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>My Web page</title>
+    </head>
+    <body>
+        <h1>404</h1>
+        <p>Didn't find anything here</p>
+        </br>
+        <p>Need to sign in?</p>
+    </br>
+    <p>Find code,projects and people on GitHub:</p>
+        <form>
+            Search<input type="text" name="search"/>
+        </br>
+        <p>Contact Support- GitHub Status- @githubstatus</p>
+            <ul>
+                <li> <a href= > Home</a></li>
+                <li> <a href= > About</a></li>
+                <li> <a href= > Work</a></li>
+                <li> <a href= > Resume</a></li>
+            </ul>
+            <form>
+                <label>About</label>
+                <input type="text" name="About"/>
+            </br>
+            <label>Work</label>
+            <input type="text" name="Work"/>
+        </br>
+        <label>Contact</label>
+        <input type="number" name="number" value="12345678"/>
+    </br>
+    <label>Resume</label>
+    <input type="text" name="Resume"/>
+</br>
+    </form>
+    </body>
+</html> 
