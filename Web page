@@ -12,14 +12,17 @@
     <p>Find code,projects and people on GitHub:</p>
         <form>
             Search<input type="text" name="search"/>
+            </form>
         </br>
         <p>Contact Support- GitHub Status- @githubstatus</p>
+        <nav>
             <ul>
                 <li> <a href= > Home</a></li>
                 <li> <a href= > About</a></li>
                 <li> <a href= > Work</a></li>
                 <li> <a href= > Resume</a></li>
             </ul>
+            </nav>
             <form>
                 <label>About</label>
                 <input type="text" name="About"/>
@@ -34,5 +37,15 @@
     <input type="text" name="Resume"/>
 </br>
     </form>
+    <footer>
+        <p><b>GitHub</b></p>
+        <p>Security</p>
+    </br>
+    <p>Product</p>
+</br>
+<p>Contact</p>
+</br>
+<p>GitHub Desktop</p>
+    </footer>
     </body>
 </html> 
